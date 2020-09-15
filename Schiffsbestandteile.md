@@ -1,5 +1,5 @@
 **Aufbau von Großschiffen** 
-##Kleinschiffe
+## Kleinschiffe
 	- MG 1L
 	- Flügel 2L
 	- Antrieb 3L
@@ -8,32 +8,32 @@
 	- Rakete 1L
 	- Frachtraum 2L
 
-##Korvetten
+## Korvetten
 	- Funktionale Besatzung ca. 3-5 Personen
 	- mind. 1 Pilot
 	- Jeder Typ abbildbar, Zivil, Wirtschat, Militär
 
-##Fregatten
+## Fregatten
 	- Funktionale Besatzung ca. 3-8 Personen
 	- mind. Pilot, Kommandeur, Mechaniker
 	- erfüllt eine spezielle Aufgabe (Trägerschiff)
 
-##Leichter Kreuzer
+## Leichter Kreuzer
 	- Funktionale Besatzung ca.7-10 
 	- mind. Pilot, Kommandeur, Mechaniker, Gunner, Sicherheit, Medizin
 	- strategische Aufgabe
 
-##Schwerer Kreuzer
+## Schwerer Kreuzer
 	- Funktionale Besatzung ca. 10-15 
 	- mind. Pilot, Copilot, Kommunikationsoffizier, Kommandeur, Mechaniker, Mediziner, Sicherheit 
 	- strategische Aufgabe
 
 
-##Großkampfschiffe
+## Großkampfschiffe
 	- Funktionale Besatzung ca. 15+
 	- mind. Pilot, 2 Copiloten, Kommunikationsoffizier, Kommandeur, 2 Mechaniker, Mediziner, Sicherheit 
 
-##Bestandteile:
+## Bestandteile:
 - Commando Cockpit - MG/RaketenCockpit 
 - Maschinenraum mit Gyroskop
 - Batterie oder Reaktor
@@ -49,7 +49,7 @@
 - Sonderausstattung
 - Strukturelle Intigrität (alle Lebenspunkt addiert)
 
-##CrewTypen
+## CrewTypen
 - Kommandant (Intelligenz, Technikverständnis)
 	- Gibt Befehle und plant die Strategie der "Flotte"
 
@@ -74,7 +74,7 @@ Damit sind Kleinschiffe (z.B. Jäger) mit 1 bis 2 Personen.
 	- Frachter, Truppentransporter
 	- Besatzung ca. 2-3 Personen
 
-##Bestandteile:
+## Bestandteile:
 - Cockpit
 - MG
 - Raketen
@@ -84,7 +84,7 @@ Damit sind Kleinschiffe (z.B. Jäger) mit 1 bis 2 Personen.
 - Flügel für planetaren Eintritt
 
 
-##Systeme
+## Systeme
 
 Alle Schiffe können mit folgenden Systemen ausgestattet werden (individuelle natürlich auch)
 
