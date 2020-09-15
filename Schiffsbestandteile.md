@@ -67,10 +67,10 @@
 **Aufbau Kleinschiffe**
 Damit sind Kleinschiffe (z.B. Jäger) mit 1 bis 2 Personen.
 
-##Einmannschiff
+# Einmannschiff
 	- Jäger, Raketenjäger, usw..
 	
-##Kleintransporter
+# Kleintransporter
 	- Frachter, Truppentransporter
 	- Besatzung ca. 2-3 Personen
 

@@ -5,3 +5,8 @@ Allerdings hatte die Allianz nach 20 Jahren den Krieg angefangen um
 an die neuen Technologien zu kommen. Die neuen Planeten zwichen beiden Systemen
 waren die Leitragenden und sind bis noch auf wenige Stellungen überwiegend 
 zerstört.
+
+# Stärken:
+
+- Arbeitsspezifische Updates im Körper
+- Umfangreiches Gesundheitsüberwachungssystem im Arm

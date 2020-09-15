@@ -1,5 +1,4 @@
-+
-Hannes, Sabrina, Linda,domminik, Michi, Linda, SUSI
+# Hannes, Sabrina, Linda,domminik, Michi, Linda, SUSI
 
 Am Anfang sind alle aus ihren Kryoschlaf aufgewacht und
 kamen als neue Siedler in das bekannte System. 
@@ -20,7 +19,7 @@ Auf Bumba haben sie sich mit jemanden verabredet die geheime Fracht zu
 öffnen. Das Treffen ist um 21 Uhr in der Hauptstadt am abgelegenen Lager. 
 
 
-Hannes, Sabrina, Linda, Michi, Susi(alles auf Bumba)
+# Hannes, Sabrina, Linda, Michi, Susi(alles auf Bumba)
 
 Im Lager haben sie mehrere Kisten mit dem Verabredeten und seinen Kosenk(mit Scaner)
 durchsucht. Dabei sind sie auf eine Leiche, Drahtgeflecht mit blauer Flüssigkeit und

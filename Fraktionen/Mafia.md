@@ -1,5 +1,5 @@
-Die Mafia sind eine professionell aufgebaute 
-Gruppe an Kriminellen.
+## Die Mafia sind eine professionell aufgebaute 
+## Gruppe an Kriminellen.
 
 Es gibt einen Oberstenrat wo die Mafiafürst 
 sich einkaufen.
@@ -8,9 +8,9 @@ Darunter gibt es Unterbosse und welche sich um das Hauptgeschäft kümmern.
 Es ist eine Vereinigung mit Mafiösen Grundsätzen.
 
 
-Oberhäupter:
+## Oberhäupter:
 
-Zara:
+# Zara:
 Ist auf Satta sässig.
 Dort baut er im Untergrund Essen für die Gläubingen an um deren 
 Unabhängigkeit zu sichern. Weiterhin ist er dessen Drogenlieferant.
@@ -18,21 +18,21 @@ Stellvertreterin: Marga.
 leitet ein Geschwarder von 5 Jägern und 2 Großkampfschiffen
 
 
-Hektor:
+# Hektor:
 Ist im Erdsystem auf P1. 
 Betreibt viel Spionage und verübt Attetate. Kunden sind dabei 
 Politiker und die reiche Oberschicht.
 Gleichzeitig ist Schmuggel von wertfollen Dingen/Lebenwesen das zweite Standbein.
 Besitzer von mehreren Vipern und einem großen Vermögen.
 
-Linguini:
+# Linguini:
 Ist auf P3 beheimatet.
 In verbindung mit Zhang-Fay-Mining ist das die Versorgungsader für
 den Schwarzmarkt. Zhang-Fay-Mining erteilt Linguini oft Aufträge 
 die Konkurenz zu stören.
 3 Großkampfschiffe und 2 Jäger
 
-Jay:
+# Jay:
 Ist Herr von P6.
 Er unterstützt die Sync mit allen Typen von Waren.
 Gleichzeitig werden über Ihn viele Menschen bzw. Forscher geschleust.

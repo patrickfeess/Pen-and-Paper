@@ -1,17 +1,17 @@
-Die Demokratische Allianz
+## Die Demokratische Allianz
 
 Oberste Führung: 10 Abgeordnete
 4 aus Militär | 6 aus Zivil
 
 
 Es gibt 3 große Parteien.
-1. Allianz-voran (AV)
+# Allianz-voran (AV)
 Ihre Ziele ist es die Allianz zu stabilisieren. Dazu soll das Militär 
 die äußeren Sektoren stabilisieren und Rohstoffe beanspruchen.
 Viel auf Arbeitgeberseite und möchte Arbeitsplätze und mehr technologischen 
 Fortschritt erweitern.
 
-2. Freiheit der Brüder und Schwestern (FBS)
+# Freiheit der Brüder und Schwestern (FBS)
 Das Allianzsystem ist in den äußeren Regionen gespalten. Anstatt abgespaltete
 Gebiete gewaltsam wieder einzugliedern, möchten sie das über Friedens- und Wirtschaftsverträge 
 lösen. Die Freien Völker brauchen eine Stimme und müssen für ihre Leistungen annerkant werden.
@@ -22,7 +22,7 @@ besser unterstütz werden und somit wieder zur Allianz zurück kehren. Viele
 von den Freien Völkern sind vorallen Wirtschaftsflüchtlinge, auf der Suche nach 
 einem Stück vom Kuchen.
 
-3. Erinnerung an den Fortschritt (EF)
+# Erinnerung an den Fortschritt (EF)
 Es gab durch Krieg und Krisen wenig Fortschritt in den letzten 30 Jahren.
 Dazu sind mit den Sync viele gute Wissenschaftler ausgewandert.
 Diese Partei möchte Verbindung mit den Sync aufnehmen und die Erde wieder

@@ -1,4 +1,4 @@
-Runde am 24.07.2020  Ferdi Martin Linda 
+# Runde am 24.07.2020  Ferdi Martin Linda 
 
 Die Gruppe besitzt einen Frachter der Korvettklasse mit einer 2er Front-MG.
 Nachdem die Gruppe im Anfangsspiel eine Gläubigenstation ausgebeutet und beschädigt haben,

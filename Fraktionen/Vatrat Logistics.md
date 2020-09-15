@@ -1,4 +1,4 @@
-Vatrat Logistics:
+## Vatrat Logistics:
 Ansässig auf Station 8
 
 Vatra Logistics ist der größte Logistikdienstleister im besiedelten Raum.

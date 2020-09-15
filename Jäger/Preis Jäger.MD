@@ -15,13 +15,13 @@
 |               |         |       |         |   |   |
 
 
-##Systeme
+## Systeme
 
 - Brandlöschsystem  300 Credits
 - Autopilot 500 Credits
 - Reperaturdroide 2000 ( +1 Leben in 2 Zügen ) ( im Rumpf)
 
-##Panzerung/Aufrüstung
+## Panzerung/Aufrüstung
 Generell kann ein Jäger in vielen Hinsichten 
 aufgerüstet werden...z.B. Panzerung, Antrieb usw...
 das wird dann mit dem SPL ausgehandelt
