@@ -158,7 +158,8 @@ Bei fehlenden Gliedmaßen wird z.B. die Stärke geteilt.
 **Deckungen/Ecken**
 Auf die jeweilige Kapferfahrung wird Rücksicht genommen.
 Zusätzlich  wird bei gleicher Ausgangslage gewürfelt wer zuerst schießen darf.
-
+Für Deckungen / Ecken gibt es für den Angreifer einen Abzug auf die Fähigkeit.
+Dadurch ergibt sich für den gedeckten ein Hindernisbonus.
 
 
 
