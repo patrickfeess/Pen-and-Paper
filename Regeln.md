@@ -19,6 +19,7 @@ Gunner, Strategischer Kommandör, Pilot von Flugzeugträger, Jägerpilot, Schiff
 Während des Kampfes sind somit alle involviert und tragen ihre Verantwortung. Gleichzeitig werden auch
 die Fähigkeiten verbessert.
 
+
 ## Charaktererstellung:
 
 Für einen guten Charakter überlege dir eine Backroundstory und wie er sich aufgrund
@@ -29,23 +30,7 @@ passende Umsetzung ist der Coolste Charakter nichts wert.
 Nachdem du das hast, darfst du dir passend 450 Punkte auf dem Charakterblatt vergeben.
 
 
-## Questoptionen:
-
-- Ware liefern, schmuggeln(Personen, Schiffe, Waren)
-- Diplomatischer Auftrag ( vermitteln, ausrichten )
-- repariere X
-- unterstütze eine Flotte, einen Kampf, eine Lieferung, ein Unterfangen, eine Baustelle,Bauwerk
-- Rette X
-- Predige
-- kläre über Misstände auf
-- verbreite Gerüchte
-- Erkunde X
-- Attentat ausführen
-- Kopfgeld jagen
-- Geld eintreiben / Schutzgeld
-
-
-## Spezialwürfel:
+## Würfelsystem:
 
 Grundlegend soll der Erfolg / Misserfolg anhand einer Skala von 0 bis 100 festgelegt werden.
 Das Würfelsystem besteht dabei aus zwei Würfeln, wobei einer die 10ner Stelle und der zweite
@@ -60,7 +45,7 @@ z.B. ein Kampfschiff als Gasfrachter tarnen
 z.B. einen Jäger Pink lackieren
 z.B. Den Flügel für mehr Schub abmontieren
 
-Die Eigenschaften von Klein und Großschiffen findet ihr in den jeweiligen Dateien.
+Die Eigenschaften von Klein und Großschiffen sind im Schiffssheet festgelegt. 
 
 
 ## Beispiele für noch nicht erforschte Technologien
@@ -85,11 +70,12 @@ Die Eigenschaften von Klein und Großschiffen findet ihr in den jeweiligen Datei
 - der Lauf einer Laserwaffe macht doppelten Schaden
 - Für Schiff-MG einsetzbar
 
+
 ## Flugmechanik
 
 **Flug**
 Jedes Schiff kann im Kampfzug fliegen u. bei passender Schießrichtung auch feuern.
-Großschiffe bewegen sich eine halbe Länge, Kleinschiffe eine volle.
+Jedes Schiff hat festgelegte Fortbewegungslängen
 
 **Fluggeschwindigkeit**
 Jedes Schiff hat seine eigene Schablone.
@@ -129,15 +115,6 @@ dieser verteilt sich auf 3 Felder.
 Ein Reaktor lädt pro Runde die Batterie mit einen Energiefeld auf (im Ruhezustand)
 Der Reaktor kann überladen werden um die doppelte Aufladung zu erhalten.
 
-**Schilde**
-Die Schildfähigkeit kann durch einen zusätzlichen Maschinenraum ausgestattet werden.
-Ein Schild ist zwei Felder groß und benötigt eine um hochzufahren. Dabei werden 
-2 Energiestäbe verbraucht. Schilde fangen MG Feuer ab und haben 2 Leben. Wenn Schilde
-von Raketen getroffen werden, sind diese Raketen zerstört, allerdings können trotzdem 
-Schäden am Schiff entstehen. Es gilt dabei ein Schaden im Verhältnis zur strukturellen Integrität.
-Das gleiche Prinzip gilt im echten Leben bei Uboten, wenn dort Torpedos vor dem Ubot explodieren
-enstehen ebenfalls enorme Schäden.
-Eigene MG´s können durch den Schild feuern.
 
 ## Personenmechanik
 
@@ -162,8 +139,20 @@ Für Deckungen / Ecken gibt es für den Angreifer einen Abzug auf die Fähigkeit
 Dadurch ergibt sich für den gedeckten ein Hindernisbonus.
 
 
+## Questoptionen:
 
-
+- Ware liefern, schmuggeln(Personen, Schiffe, Waren)
+- Diplomatischer Auftrag ( vermitteln, ausrichten )
+- repariere X
+- unterstütze eine Flotte, einen Kampf, eine Lieferung, ein Unterfangen, eine Baustelle,Bauwerk
+- Rette X
+- Predige
+- kläre über Misstände auf
+- verbreite Gerüchte
+- Erkunde X
+- Attentat ausführen
+- Kopfgeld jagen
+- Geld eintreiben / Schutzgeld
 
 
 
